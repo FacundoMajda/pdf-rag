@@ -15,6 +15,7 @@
     "@ai-sdk/openai": "^1.1.14",
     "@langchain/community": "^0.3.32",
     "@langchain/core": "^0.3.40",
+    "@langchain/textsplitters": "^0.1.0",
     "ai": "^4.1.46",
     "pdf-parse": "^1.1.1"
   }
